@@ -1,0 +1,16 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+   <%--ovde pocinje footer----%>
+        <div id="footer">
+            <hr>
+            <p >
+                <a href="#">Privacy Policy</a>
+                &nbsp;&nbsp;::&nbsp;&nbsp;
+                <a href="#">Contact</a>
+                &nbsp;&nbsp;&copy;&nbsp;&nbsp;
+                2017 teatar</p>
+        </div>
+</body>
+</html>
+
+<%-- mora da se doda zavrsni tag za body i html jer oni ostaju dole ispod script dela u  index.jsp--%>

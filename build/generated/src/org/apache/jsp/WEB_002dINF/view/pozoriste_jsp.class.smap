@@ -1,0 +1,20 @@
+SMAP
+pozoriste_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jspf
+WEB-INF/jspf/header.jspf
++ 1 pozoriste.jsp
+WEB-INF/view/pozoriste.jsp
++ 2 footer.jspf
+WEB-INF/jspf/footer.jspf
+*L
+1,16:50
+17:66,2
+18,3:68
+5#1,6:71
+1#2,2:76
+3:78,2
+4,13:80
+*E

@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 15, 2017, 4:54:47 PM
+    Author     : Aleksandar Djalovic
+*/
+body{
+    font-family: Verdana;
+       background-color: dodgerblue;
+     text-align: center;
+    margin:20px auto;
+    width:50%;
+    
+}
+#main{
+    
+    
+    
+}
+#header{
+    text-align: center;
+    background-color: dodgerblue;
+    height: 180px;
+}
+#footer{
+      height: 60px;
+ 
+    clear:left;
+    background: dodgerblue;
+}
+p{
+    background-color: dodgerblue;
+}
